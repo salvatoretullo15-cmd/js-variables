@@ -12,7 +12,7 @@ const number = "8";
 console.log( number );
 const text = "patuschi";
 console.log( text );
-const bool = "icone";
+const bool = "true";
 console.log( bool );
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
